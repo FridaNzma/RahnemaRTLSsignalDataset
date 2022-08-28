@@ -1,0 +1,1931 @@
+{
+  "api": "runAnalysis",
+  "result": "success",
+  "messsage": "",
+  "analysis": {
+    "checks": [],
+    "unics": [],
+    "scores": [
+      {
+        "ble": "TMURTLS_02",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 19.82,
+          "std": 15.4,
+          "n": 60
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 20.96,
+          "std": 14.74,
+          "n": 58
+        },
+        "zscore": 1.6
+      },
+      {
+        "ble": "TMURTLS_02",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 19.82,
+          "std": 15.4,
+          "n": 60
+        },
+        "loc2": {
+          "loc": "F1-zone1",
+          "mean": 18.14,
+          "std": 14.5,
+          "n": 65
+        },
+        "zscore": 2.43
+      },
+      {
+        "ble": "TMURTLS_07",
+        "loc1": {
+          "loc": "F2-zone1",
+          "mean": 2.44,
+          "std": 2.29,
+          "n": 53
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 3.21,
+          "std": 3.37,
+          "n": 60
+        },
+        "zscore": 2.44
+      },
+      {
+        "ble": "TMURTLS_10",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 93.72,
+          "std": 36.97,
+          "n": 20
+        },
+        "loc2": {
+          "loc": "F12-stairs",
+          "mean": 88.34,
+          "std": 23.9,
+          "n": 8
+        },
+        "zscore": 2.45
+      },
+      {
+        "ble": "TMURTLS_01",
+        "loc1": {
+          "loc": "F12-stairs",
+          "mean": 53.51,
+          "std": 48.91,
+          "n": 41
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 57.36,
+          "std": 31.27,
+          "n": 56
+        },
+        "zscore": 2.91
+      },
+      {
+        "ble": "TMURTLS_11",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 4.44,
+          "std": 4.2,
+          "n": 59
+        },
+        "loc2": {
+          "loc": "F1-zone1",
+          "mean": 5.93,
+          "std": 9.11,
+          "n": 64
+        },
+        "zscore": 3.22
+      },
+      {
+        "ble": "TMURTLS_12",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 90.71,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 86.77,
+          "std": 46.48,
+          "n": 38
+        },
+        "zscore": 3.56
+      },
+      {
+        "ble": "TMURTLS_07",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 23.53,
+          "std": 17.35,
+          "n": 59
+        },
+        "loc2": {
+          "loc": "F1-zone1",
+          "mean": 20.73,
+          "std": 18.44,
+          "n": 62
+        },
+        "zscore": 3.64
+      },
+      {
+        "ble": "TMURTLS_02",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 18.14,
+          "std": 14.5,
+          "n": 65
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 20.96,
+          "std": 14.74,
+          "n": 58
+        },
+        "zscore": 4.08
+      },
+      {
+        "ble": "TMURTLS_07",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 20.73,
+          "std": 18.44,
+          "n": 62
+        },
+        "loc2": {
+          "loc": "F12-stairs",
+          "mean": 17.34,
+          "std": 12.19,
+          "n": 39
+        },
+        "zscore": 4.34
+      },
+      {
+        "ble": "TMURTLS_12",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 37.18,
+          "std": 25.3,
+          "n": 65
+        },
+        "loc2": {
+          "loc": "F12-stairs",
+          "mean": 32.74,
+          "std": 23.15,
+          "n": 39
+        },
+        "zscore": 4.48
+      },
+      {
+        "ble": "TMURTLS_12",
+        "loc1": {
+          "loc": "F2-zone1",
+          "mean": 5.77,
+          "std": 4.47,
+          "n": 52
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 3.87,
+          "std": 3.83,
+          "n": 59
+        },
+        "zscore": 4.89
+      },
+      {
+        "ble": "TMURTLS_11",
+        "loc1": {
+          "loc": "F12-stairs",
+          "mean": 30.49,
+          "std": 28.49,
+          "n": 40
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 36.52,
+          "std": 33.35,
+          "n": 51
+        },
+        "zscore": 5.16
+      },
+      {
+        "ble": "TMURTLS_11",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 8.08,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F1-zone1",
+          "mean": 5.93,
+          "std": 9.11,
+          "n": 64
+        },
+        "zscore": 5.7
+      },
+      {
+        "ble": "TMURTLS_02",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 18.14,
+          "std": 14.5,
+          "n": 65
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 14.06,
+          "std": 11.47,
+          "n": 51
+        },
+        "zscore": 6.1
+      },
+      {
+        "ble": "TMURTLS_10",
+        "loc1": {
+          "loc": "F2-zone1",
+          "mean": 36.87,
+          "std": 18.1,
+          "n": 44
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 31.49,
+          "std": 16.25,
+          "n": 51
+        },
+        "zscore": 6.3
+      },
+      {
+        "ble": "TMURTLS_12",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 26.55,
+          "std": 21.6,
+          "n": 60
+        },
+        "loc2": {
+          "loc": "F12-stairs",
+          "mean": 32.74,
+          "std": 23.15,
+          "n": 39
+        },
+        "zscore": 6.34
+      },
+      {
+        "ble": "TMURTLS_07",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 23.53,
+          "std": 17.35,
+          "n": 59
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 29.43,
+          "std": 22.55,
+          "n": 40
+        },
+        "zscore": 6.37
+      },
+      {
+        "ble": "TMURTLS_02",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 10.84,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 14.06,
+          "std": 11.47,
+          "n": 51
+        },
+        "zscore": 6.79
+      },
+      {
+        "ble": "TMURTLS_01",
+        "loc1": {
+          "loc": "F12-stairs",
+          "mean": 53.51,
+          "std": 48.91,
+          "n": 41
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 44.06,
+          "std": 23.97,
+          "n": 51
+        },
+        "zscore": 7.33
+      },
+      {
+        "ble": "TMURTLS_10",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 109.95,
+          "std": 33.14,
+          "n": 11
+        },
+        "loc2": {
+          "loc": "F1-zone1",
+          "mean": 93.72,
+          "std": 36.97,
+          "n": 20
+        },
+        "zscore": 7.36
+      },
+      {
+        "ble": "TMURTLS_07",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 23.53,
+          "std": 17.35,
+          "n": 59
+        },
+        "loc2": {
+          "loc": "F12-stairs",
+          "mean": 17.34,
+          "std": 12.19,
+          "n": 39
+        },
+        "zscore": 7.95
+      },
+      {
+        "ble": "TMURTLS_02",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 19.82,
+          "std": 15.4,
+          "n": 60
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 14.06,
+          "std": 11.47,
+          "n": 51
+        },
+        "zscore": 8.3
+      },
+      {
+        "ble": "TMURTLS_10",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 109.95,
+          "std": 33.14,
+          "n": 11
+        },
+        "loc2": {
+          "loc": "F12-stairs",
+          "mean": 88.34,
+          "std": 23.9,
+          "n": 8
+        },
+        "zscore": 8.82
+      },
+      {
+        "ble": "TMURTLS_07",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 20.73,
+          "std": 18.44,
+          "n": 62
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 29.43,
+          "std": 22.55,
+          "n": 40
+        },
+        "zscore": 9.38
+      },
+      {
+        "ble": "TMURTLS_02",
+        "loc1": {
+          "loc": "F2-zone1",
+          "mean": 14.06,
+          "std": 11.47,
+          "n": 51
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 20.96,
+          "std": 14.74,
+          "n": 58
+        },
+        "zscore": 9.97
+      },
+      {
+        "ble": "TMURTLS_01",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 9.14,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F1-Zone2",
+          "mean": 15.06,
+          "std": 17.81,
+          "n": 61
+        },
+        "zscore": 10.96
+      },
+      {
+        "ble": "TMURTLS_12",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 26.55,
+          "std": 21.6,
+          "n": 60
+        },
+        "loc2": {
+          "loc": "F1-zone1",
+          "mean": 37.18,
+          "std": 25.3,
+          "n": 65
+        },
+        "zscore": 12.28
+      },
+      {
+        "ble": "TMURTLS_07",
+        "loc1": {
+          "loc": "F12-stairs",
+          "mean": 17.34,
+          "std": 12.19,
+          "n": 39
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 29.43,
+          "std": 22.55,
+          "n": 40
+        },
+        "zscore": 12.92
+      },
+      {
+        "ble": "TMURTLS_01",
+        "loc1": {
+          "loc": "F2-zone1",
+          "mean": 44.06,
+          "std": 23.97,
+          "n": 51
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 57.36,
+          "std": 31.27,
+          "n": 56
+        },
+        "zscore": 13.12
+      },
+      {
+        "ble": "TMURTLS_11",
+        "loc1": {
+          "loc": "F12-stairs",
+          "mean": 30.49,
+          "std": 28.49,
+          "n": 40
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 18.05,
+          "std": 10.77,
+          "n": 59
+        },
+        "zscore": 13.15
+      },
+      {
+        "ble": "TMURTLS_11",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 8.08,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F1-Zone2",
+          "mean": 4.44,
+          "std": 4.2,
+          "n": 59
+        },
+        "zscore": 13.64
+      },
+      {
+        "ble": "TMURTLS_01",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 9.14,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F1-zone1",
+          "mean": 4.95,
+          "std": 4.93,
+          "n": 66
+        },
+        "zscore": 15.33
+      },
+      {
+        "ble": "TMURTLS_02",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 10.84,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F1-zone1",
+          "mean": 18.14,
+          "std": 14.5,
+          "n": 65
+        },
+        "zscore": 15.46
+      },
+      {
+        "ble": "TMURTLS_07",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 8.5,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F12-stairs",
+          "mean": 17.34,
+          "std": 12.19,
+          "n": 39
+        },
+        "zscore": 15.81
+      },
+      {
+        "ble": "TMURTLS_01",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 15.06,
+          "std": 17.81,
+          "n": 61
+        },
+        "loc2": {
+          "loc": "F1-zone1",
+          "mean": 4.95,
+          "std": 4.93,
+          "n": 66
+        },
+        "zscore": 16.7
+      },
+      {
+        "ble": "TMURTLS_02",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 10.84,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F1-Zone2",
+          "mean": 19.82,
+          "std": 15.4,
+          "n": 60
+        },
+        "zscore": 17.73
+      },
+      {
+        "ble": "TMURTLS_02",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 10.84,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 20.96,
+          "std": 14.74,
+          "n": 58
+        },
+        "zscore": 20.07
+      },
+      {
+        "ble": "TMURTLS_11",
+        "loc1": {
+          "loc": "F2-zone1",
+          "mean": 36.52,
+          "std": 33.35,
+          "n": 51
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 18.05,
+          "std": 10.77,
+          "n": 59
+        },
+        "zscore": 20.19
+      },
+      {
+        "ble": "TMURTLS_11",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 5.93,
+          "std": 9.11,
+          "n": 64
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 18.05,
+          "std": 10.77,
+          "n": 59
+        },
+        "zscore": 21.26
+      },
+      {
+        "ble": "TMURTLS_07",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 8.5,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 3.21,
+          "std": 3.37,
+          "n": 60
+        },
+        "zscore": 22.32
+      },
+      {
+        "ble": "TMURTLS_07",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 8.5,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F1-zone1",
+          "mean": 20.73,
+          "std": 18.44,
+          "n": 62
+        },
+        "zscore": 22.43
+      },
+      {
+        "ble": "TMURTLS_02",
+        "loc1": {
+          "loc": "F2-zone2",
+          "mean": 20.96,
+          "std": 14.74,
+          "n": 58
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 52.52,
+          "std": 19.97,
+          "n": 12
+        },
+        "zscore": 22.79
+      },
+      {
+        "ble": "TMURTLS_07",
+        "loc1": {
+          "loc": "F12-stairs",
+          "mean": 17.34,
+          "std": 12.19,
+          "n": 39
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 3.21,
+          "std": 3.37,
+          "n": 60
+        },
+        "zscore": 23.27
+      },
+      {
+        "ble": "TMURTLS_11",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 8.08,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 18.05,
+          "std": 10.77,
+          "n": 59
+        },
+        "zscore": 23.34
+      },
+      {
+        "ble": "TMURTLS_02",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 19.82,
+          "std": 15.4,
+          "n": 60
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 52.52,
+          "std": 19.97,
+          "n": 12
+        },
+        "zscore": 23.59
+      },
+      {
+        "ble": "TMURTLS_07",
+        "loc1": {
+          "loc": "F12-stairs",
+          "mean": 17.34,
+          "std": 12.19,
+          "n": 39
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 2.44,
+          "std": 2.29,
+          "n": 53
+        },
+        "zscore": 24.98
+      },
+      {
+        "ble": "TMURTLS_02",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 18.14,
+          "std": 14.5,
+          "n": 65
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 52.52,
+          "std": 19.97,
+          "n": 12
+        },
+        "zscore": 25.03
+      },
+      {
+        "ble": "TMURTLS_11",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 8.08,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F12-stairs",
+          "mean": 30.49,
+          "std": 28.49,
+          "n": 40
+        },
+        "zscore": 26.55
+      },
+      {
+        "ble": "TMURTLS_11",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 5.93,
+          "std": 9.11,
+          "n": 64
+        },
+        "loc2": {
+          "loc": "F12-stairs",
+          "mean": 30.49,
+          "std": 28.49,
+          "n": 40
+        },
+        "zscore": 26.57
+      },
+      {
+        "ble": "TMURTLS_02",
+        "loc1": {
+          "loc": "F12-stairs",
+          "mean": 1,
+          "std": 0.37,
+          "n": 41
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 14.06,
+          "std": 11.47,
+          "n": 51
+        },
+        "zscore": 27
+      },
+      {
+        "ble": "TMURTLS_11",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 4.44,
+          "std": 4.2,
+          "n": 59
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 18.05,
+          "std": 10.77,
+          "n": 59
+        },
+        "zscore": 27.02
+      },
+      {
+        "ble": "TMURTLS_07",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 8.5,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F1-Zone2",
+          "mean": 23.53,
+          "std": 17.35,
+          "n": 59
+        },
+        "zscore": 27.72
+      },
+      {
+        "ble": "TMURTLS_07",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 8.5,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 29.43,
+          "std": 22.55,
+          "n": 40
+        },
+        "zscore": 27.88
+      },
+      {
+        "ble": "TMURTLS_10",
+        "loc1": {
+          "loc": "F12-stairs",
+          "mean": 88.34,
+          "std": 23.9,
+          "n": 8
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 36.87,
+          "std": 18.1,
+          "n": 44
+        },
+        "zscore": 27.92
+      },
+      {
+        "ble": "TMURTLS_02",
+        "loc1": {
+          "loc": "F2-zone1",
+          "mean": 14.06,
+          "std": 11.47,
+          "n": 51
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 52.52,
+          "std": 19.97,
+          "n": 12
+        },
+        "zscore": 27.98
+      },
+      {
+        "ble": "TMURTLS_07",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 8.5,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 2.44,
+          "std": 2.29,
+          "n": 53
+        },
+        "zscore": 29.15
+      },
+      {
+        "ble": "TMURTLS_11",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 4.44,
+          "std": 4.2,
+          "n": 59
+        },
+        "loc2": {
+          "loc": "F12-stairs",
+          "mean": 30.49,
+          "std": 28.49,
+          "n": 40
+        },
+        "zscore": 29.43
+      },
+      {
+        "ble": "TMURTLS_07",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 20.73,
+          "std": 18.44,
+          "n": 62
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 3.21,
+          "std": 3.37,
+          "n": 60
+        },
+        "zscore": 29.46
+      },
+      {
+        "ble": "TMURTLS_12",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 26.55,
+          "std": 21.6,
+          "n": 60
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 5.77,
+          "std": 4.47,
+          "n": 52
+        },
+        "zscore": 31.12
+      },
+      {
+        "ble": "TMURTLS_10",
+        "loc1": {
+          "loc": "F12-stairs",
+          "mean": 88.34,
+          "std": 23.9,
+          "n": 8
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 31.49,
+          "std": 16.25,
+          "n": 51
+        },
+        "zscore": 31.27
+      },
+      {
+        "ble": "TMURTLS_07",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 20.73,
+          "std": 18.44,
+          "n": 62
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 2.44,
+          "std": 2.29,
+          "n": 53
+        },
+        "zscore": 31.34
+      },
+      {
+        "ble": "TMURTLS_01",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 15.06,
+          "std": 17.81,
+          "n": 61
+        },
+        "loc2": {
+          "loc": "F12-stairs",
+          "mean": 53.51,
+          "std": 48.91,
+          "n": 41
+        },
+        "zscore": 31.55
+      },
+      {
+        "ble": "TMURTLS_02",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 10.84,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 52.52,
+          "std": 19.97,
+          "n": 12
+        },
+        "zscore": 32.31
+      },
+      {
+        "ble": "TMURTLS_12",
+        "loc1": {
+          "loc": "F12-stairs",
+          "mean": 32.74,
+          "std": 23.15,
+          "n": 39
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 5.77,
+          "std": 4.47,
+          "n": 52
+        },
+        "zscore": 32.72
+      },
+      {
+        "ble": "TMURTLS_01",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 15.06,
+          "std": 17.81,
+          "n": 61
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 44.06,
+          "std": 23.97,
+          "n": 51
+        },
+        "zscore": 33.22
+      },
+      {
+        "ble": "TMURTLS_07",
+        "loc1": {
+          "loc": "F2-zone2",
+          "mean": 3.21,
+          "std": 3.37,
+          "n": 60
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 29.43,
+          "std": 22.55,
+          "n": 40
+        },
+        "zscore": 33.3
+      },
+      {
+        "ble": "TMURTLS_01",
+        "loc1": {
+          "loc": "F12-stairs",
+          "mean": 53.51,
+          "std": 48.91,
+          "n": 41
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 114.64,
+          "std": 64.81,
+          "n": 32
+        },
+        "zscore": 34.08
+      },
+      {
+        "ble": "TMURTLS_11",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 5.93,
+          "std": 9.11,
+          "n": 64
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 36.52,
+          "std": 33.35,
+          "n": 51
+        },
+        "zscore": 34.28
+      },
+      {
+        "ble": "TMURTLS_07",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 23.53,
+          "std": 17.35,
+          "n": 59
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 3.21,
+          "std": 3.37,
+          "n": 60
+        },
+        "zscore": 34.34
+      },
+      {
+        "ble": "TMURTLS_07",
+        "loc1": {
+          "loc": "F2-zone1",
+          "mean": 2.44,
+          "std": 2.29,
+          "n": 53
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 29.43,
+          "std": 22.55,
+          "n": 40
+        },
+        "zscore": 34.64
+      },
+      {
+        "ble": "TMURTLS_12",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 26.55,
+          "std": 21.6,
+          "n": 60
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 3.87,
+          "std": 3.83,
+          "n": 59
+        },
+        "zscore": 34.79
+      },
+      {
+        "ble": "TMURTLS_11",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 8.08,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 36.52,
+          "std": 33.35,
+          "n": 51
+        },
+        "zscore": 35.17
+      },
+      {
+        "ble": "TMURTLS_02",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 18.14,
+          "std": 14.5,
+          "n": 65
+        },
+        "loc2": {
+          "loc": "F12-stairs",
+          "mean": 1,
+          "std": 0.37,
+          "n": 41
+        },
+        "zscore": 35.58
+      },
+      {
+        "ble": "TMURTLS_12",
+        "loc1": {
+          "loc": "F12-stairs",
+          "mean": 32.74,
+          "std": 23.15,
+          "n": 39
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 3.87,
+          "std": 3.83,
+          "n": 59
+        },
+        "zscore": 35.58
+      },
+      {
+        "ble": "TMURTLS_01",
+        "loc1": {
+          "loc": "F2-zone2",
+          "mean": 57.36,
+          "std": 31.27,
+          "n": 56
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 114.64,
+          "std": 64.81,
+          "n": 32
+        },
+        "zscore": 35.64
+      },
+      {
+        "ble": "TMURTLS_07",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 23.53,
+          "std": 17.35,
+          "n": 59
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 2.44,
+          "std": 2.29,
+          "n": 53
+        },
+        "zscore": 36.31
+      },
+      {
+        "ble": "TMURTLS_02",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 19.82,
+          "std": 15.4,
+          "n": 60
+        },
+        "loc2": {
+          "loc": "F12-stairs",
+          "mean": 1,
+          "std": 0.37,
+          "n": 41
+        },
+        "zscore": 36.51
+      },
+      {
+        "ble": "TMURTLS_11",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 4.44,
+          "std": 4.2,
+          "n": 59
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 36.52,
+          "std": 33.35,
+          "n": 51
+        },
+        "zscore": 37.67
+      },
+      {
+        "ble": "TMURTLS_10",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 93.72,
+          "std": 36.97,
+          "n": 20
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 36.87,
+          "std": 18.1,
+          "n": 44
+        },
+        "zscore": 37.82
+      },
+      {
+        "ble": "TMURTLS_02",
+        "loc1": {
+          "loc": "F12-stairs",
+          "mean": 1,
+          "std": 0.37,
+          "n": 41
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 20.96,
+          "std": 14.74,
+          "n": 58
+        },
+        "zscore": 38.91
+      },
+      {
+        "ble": "TMURTLS_12",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 37.18,
+          "std": 25.3,
+          "n": 65
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 86.77,
+          "std": 46.48,
+          "n": 38
+        },
+        "zscore": 39.05
+      },
+      {
+        "ble": "TMURTLS_10",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 109.95,
+          "std": 33.14,
+          "n": 11
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 36.87,
+          "std": 18.1,
+          "n": 44
+        },
+        "zscore": 39.49
+      },
+      {
+        "ble": "TMURTLS_02",
+        "loc1": {
+          "loc": "F12-stairs",
+          "mean": 1,
+          "std": 0.37,
+          "n": 41
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 52.52,
+          "std": 19.97,
+          "n": 12
+        },
+        "zscore": 39.83
+      },
+      {
+        "ble": "TMURTLS_12",
+        "loc1": {
+          "loc": "F12-stairs",
+          "mean": 32.74,
+          "std": 23.15,
+          "n": 39
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 86.77,
+          "std": 46.48,
+          "n": 38
+        },
+        "zscore": 40.09
+      },
+      {
+        "ble": "TMURTLS_01",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 9.14,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F12-stairs",
+          "mean": 53.51,
+          "std": 48.91,
+          "n": 41
+        },
+        "zscore": 40.62
+      },
+      {
+        "ble": "TMURTLS_10",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 93.72,
+          "std": 36.97,
+          "n": 20
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 31.49,
+          "std": 16.25,
+          "n": 51
+        },
+        "zscore": 42.27
+      },
+      {
+        "ble": "TMURTLS_10",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 109.95,
+          "std": 33.14,
+          "n": 11
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 31.49,
+          "std": 16.25,
+          "n": 51
+        },
+        "zscore": 42.99
+      },
+      {
+        "ble": "TMURTLS_01",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 4.95,
+          "std": 4.93,
+          "n": 66
+        },
+        "loc2": {
+          "loc": "F12-stairs",
+          "mean": 53.51,
+          "std": 48.91,
+          "n": 41
+        },
+        "zscore": 43.13
+      },
+      {
+        "ble": "TMURTLS_01",
+        "loc1": {
+          "loc": "F2-zone1",
+          "mean": 44.06,
+          "std": 23.97,
+          "n": 51
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 114.64,
+          "std": 64.81,
+          "n": 32
+        },
+        "zscore": 44.68
+      },
+      {
+        "ble": "TMURTLS_12",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 37.18,
+          "std": 25.3,
+          "n": 65
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 5.77,
+          "std": 4.47,
+          "n": 52
+        },
+        "zscore": 45.57
+      },
+      {
+        "ble": "TMURTLS_01",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 15.06,
+          "std": 17.81,
+          "n": 61
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 57.36,
+          "std": 31.27,
+          "n": 56
+        },
+        "zscore": 45.87
+      },
+      {
+        "ble": "TMURTLS_12",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 26.55,
+          "std": 21.6,
+          "n": 60
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 86.77,
+          "std": 46.48,
+          "n": 38
+        },
+        "zscore": 47.86
+      },
+      {
+        "ble": "TMURTLS_10",
+        "loc1": {
+          "loc": "F2-zone2",
+          "mean": 31.49,
+          "std": 16.25,
+          "n": 51
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 2.11,
+          "std": 2.38,
+          "n": 42
+        },
+        "zscore": 47.96
+      },
+      {
+        "ble": "TMURTLS_10",
+        "loc1": {
+          "loc": "F12-stairs",
+          "mean": 88.34,
+          "std": 23.9,
+          "n": 8
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 2.11,
+          "std": 2.38,
+          "n": 42
+        },
+        "zscore": 49.42
+      },
+      {
+        "ble": "TMURTLS_12",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 37.18,
+          "std": 25.3,
+          "n": 65
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 3.87,
+          "std": 3.83,
+          "n": 59
+        },
+        "zscore": 49.43
+      },
+      {
+        "ble": "TMURTLS_10",
+        "loc1": {
+          "loc": "F2-zone1",
+          "mean": 36.87,
+          "std": 18.1,
+          "n": 44
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 2.11,
+          "std": 2.38,
+          "n": 42
+        },
+        "zscore": 50.81
+      },
+      {
+        "ble": "TMURTLS_01",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 9.14,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 44.06,
+          "std": 23.97,
+          "n": 51
+        },
+        "zscore": 50.94
+      },
+      {
+        "ble": "TMURTLS_01",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 4.95,
+          "std": 4.93,
+          "n": 66
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 44.06,
+          "std": 23.97,
+          "n": 51
+        },
+        "zscore": 52.99
+      },
+      {
+        "ble": "TMURTLS_11",
+        "loc1": {
+          "loc": "F2-zone1",
+          "mean": 36.52,
+          "std": 33.35,
+          "n": 51
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 136.28,
+          "std": 44.57,
+          "n": 19
+        },
+        "zscore": 57.6
+      },
+      {
+        "ble": "TMURTLS_11",
+        "loc1": {
+          "loc": "F12-stairs",
+          "mean": 30.49,
+          "std": 28.49,
+          "n": 40
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 136.28,
+          "std": 44.57,
+          "n": 19
+        },
+        "zscore": 60.5
+      },
+      {
+        "ble": "TMURTLS_10",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 109.95,
+          "std": 33.14,
+          "n": 11
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 2.11,
+          "std": 2.38,
+          "n": 42
+        },
+        "zscore": 61.55
+      },
+      {
+        "ble": "TMURTLS_01",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 9.14,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 57.36,
+          "std": 31.27,
+          "n": 56
+        },
+        "zscore": 64.53
+      },
+      {
+        "ble": "TMURTLS_01",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 15.06,
+          "std": 17.81,
+          "n": 61
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 114.64,
+          "std": 64.81,
+          "n": 32
+        },
+        "zscore": 65.42
+      },
+      {
+        "ble": "TMURTLS_01",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 4.95,
+          "std": 4.93,
+          "n": 66
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 57.36,
+          "std": 31.27,
+          "n": 56
+        },
+        "zscore": 65.87
+      },
+      {
+        "ble": "TMURTLS_10",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 93.72,
+          "std": 36.97,
+          "n": 20
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 2.11,
+          "std": 2.38,
+          "n": 42
+        },
+        "zscore": 66.37
+      },
+      {
+        "ble": "TMURTLS_12",
+        "loc1": {
+          "loc": "F2-zone1",
+          "mean": 5.77,
+          "std": 4.47,
+          "n": 52
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 86.77,
+          "std": 46.48,
+          "n": 38
+        },
+        "zscore": 70.79
+      },
+      {
+        "ble": "TMURTLS_12",
+        "loc1": {
+          "loc": "F2-zone2",
+          "mean": 3.87,
+          "std": 3.83,
+          "n": 59
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 86.77,
+          "std": 46.48,
+          "n": 38
+        },
+        "zscore": 73.04
+      },
+      {
+        "ble": "TMURTLS_01",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 9.14,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 114.64,
+          "std": 64.81,
+          "n": 32
+        },
+        "zscore": 74.13
+      },
+      {
+        "ble": "TMURTLS_11",
+        "loc1": {
+          "loc": "F2-zone2",
+          "mean": 18.05,
+          "std": 10.77,
+          "n": 59
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 136.28,
+          "std": 44.57,
+          "n": 19
+        },
+        "zscore": 74.36
+      },
+      {
+        "ble": "TMURTLS_12",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 90.71,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F12-stairs",
+          "mean": 32.74,
+          "std": 23.15,
+          "n": 39
+        },
+        "zscore": 75.24
+      },
+      {
+        "ble": "TMURTLS_01",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 4.95,
+          "std": 4.93,
+          "n": 66
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 114.64,
+          "std": 64.81,
+          "n": 32
+        },
+        "zscore": 75.69
+      },
+      {
+        "ble": "TMURTLS_11",
+        "loc1": {
+          "loc": "F1-zone1",
+          "mean": 5.93,
+          "std": 9.11,
+          "n": 64
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 136.28,
+          "std": 44.57,
+          "n": 19
+        },
+        "zscore": 82.64
+      },
+      {
+        "ble": "TMURTLS_11",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 8.08,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 136.28,
+          "std": 44.57,
+          "n": 19
+        },
+        "zscore": 83.7
+      },
+      {
+        "ble": "TMURTLS_11",
+        "loc1": {
+          "loc": "F1-Zone2",
+          "mean": 4.44,
+          "std": 4.2,
+          "n": 59
+        },
+        "loc2": {
+          "loc": "apt14",
+          "mean": 136.28,
+          "std": 44.57,
+          "n": 19
+        },
+        "zscore": 84.8
+      },
+      {
+        "ble": "TMURTLS_12",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 90.71,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F1-zone1",
+          "mean": 37.18,
+          "std": 25.3,
+          "n": 65
+        },
+        "zscore": 85.8
+      },
+      {
+        "ble": "TMURTLS_02",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 10.84,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F12-stairs",
+          "mean": 1,
+          "std": 0.37,
+          "n": 41
+        },
+        "zscore": 103.58
+      },
+      {
+        "ble": "TMURTLS_12",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 90.71,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F1-Zone2",
+          "mean": 26.55,
+          "std": 21.6,
+          "n": 60
+        },
+        "zscore": 106.93
+      },
+      {
+        "ble": "TMURTLS_12",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 90.71,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F2-zone1",
+          "mean": 5.77,
+          "std": 4.47,
+          "n": 52
+        },
+        "zscore": 289.71
+      },
+      {
+        "ble": "TMURTLS_12",
+        "loc1": {
+          "loc": "F0-Zone1",
+          "mean": 90.71,
+          "std": 0,
+          "n": 1
+        },
+        "loc2": {
+          "loc": "F2-zone2",
+          "mean": 3.87,
+          "std": 3.83,
+          "n": 59
+        },
+        "zscore": 340.84
+      }
+    ]
+  }
+}
